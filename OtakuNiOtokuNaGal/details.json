@@ -1,0 +1,25 @@
+{
+    "title": "Otaku Ni Otoku Na Gal Gurashi",
+    "description": "Yutaka Kongouji is the son of a wealthy family, but also an introvert and an otaku. He lives only to spend all his allowance supporting his favorite idol. But when his parents' business fails, he has to move into a run-down apartment on his own. There he ran into Rino Hyuga, a popular gal in his class?",
+    "artist": "HINO Haruto",
+    "author": "HINO Haruto",
+    "cover": "https://i.imgur.com/JUcmDKT.jpeg",
+    "chapters": {
+      "1": {
+        "title": "An Otaku and Otoku Gyaru's Life Together",
+        "volume": "1",
+        "groups": {
+          "<group name>": "/proxy/api/imgur/chapter/TY4ErZU/"
+        },
+        "last_updated": "1631346817"
+      },
+      "01": {
+        "title": "Gyaru Living: Good for Otaku",
+        "volume": "1",
+        "groups": {
+          "<group name>": "/proxy/api/imgur/chapter/WT0kPBi/"
+        },
+        "last_updated": "1630249558"
+      }
+    }
+  }
