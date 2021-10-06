@@ -11,6 +11,7 @@ Link: https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_
 # Archived Post
 <details>
 <summary>Click to Expand</summary>
+
 Just wanna start off saying that this guide is for getting multiple chapters under one link for a series using [guya.moe](https://guya.moe), not just for viewing a single chapter. The devs talked about this in the mangadex discord server but no one made a guide, so I tried making one. Some parts of this guide are taken from [u/Kawaii\_Loli\_Imouto](/u/Kawaii_Loli_Imouto/)'s guide.
 
 Uploading to Imgur
