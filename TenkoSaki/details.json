@@ -1,0 +1,25 @@
+{
+    "title": "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+    "description": "placeholder",
+    "artist": "placeholder",
+    "author": "placeholder",
+    "cover": "https://i.imgur.com/Hzpdb8M_d.webp",
+    "chapters": {
+      "1": {
+        "title": "Chapter 1",
+        "volume": "1",
+        "groups": {
+          "No group": "/proxy/api/imgur/chapter/deEyjId/"
+        },
+        "last_updated": "1633255440"
+      },
+      "2": {
+        "title": "Chapter 2",
+        "volume": "1",
+        "groups": {
+          "No group": "/proxy/api/imgur/chapter/c9u6oOT/"
+        },
+        "last_updated": "1633860240"
+      }
+    }
+  }
