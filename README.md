@@ -5,6 +5,9 @@ Manga links for Cubari reader
 
 [Otaku no Otoku ni Gal Gurashi](/OtakuNiOtokuNaGal) : https://cubari.moe/read/gist/JuKF9/
 
+[TenkoSaki](/TenkoSaki) : https://cubari.moe/read/gist/JolyB/
+
+
 # Tutorial
 Link: https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/
 
