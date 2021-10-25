@@ -7,7 +7,7 @@ Manga links for Cubari reader
 
 [TenkoSaki](/TenkoSaki) : https://cubari.moe/read/gist/JolyB/
 
-
+[Doujima-kun](/Dojimakun): https://cubari.moe/read/gist/JiC9N/
 # Tutorial
 Link: https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/
 
