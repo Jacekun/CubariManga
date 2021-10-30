@@ -44,6 +44,14 @@
                 "Dadnaya": "/proxy/api/imgur/chapter/cDQNGZE/"
             },
             "last_updated": "1635550479"
+        },
+        "30": {
+            "title": "Chapter 30",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/HQVg5Kb/"
+            },
+            "last_updated": "1635633331"
         }
     }
 }
