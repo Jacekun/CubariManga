@@ -5,45 +5,45 @@
     "author": "Panyakawa",
     "cover": "https://i.imgur.com/PjAlhBs.jpeg",
     "chapters": {
-      "25": {
-        "title": "Chapter 25",
-        "volume": "0",
-        "groups": {
-          "Dadnaya": "/proxy/api/imgur/chapter/PWeqElF/"
+        "25": {
+            "title": "Chapter 25",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/PWeqElF/"
+            },
+            "last_updated": "1635243071"
         },
-        "last_updated": "1635243071"
-      },
-      "26": {
-        "title": "Chapter 26",
-        "volume": "0",
-        "groups": {
-          "Dadnaya": "/proxy/api/imgur/chapter/F2sfJ5O/"
+        "26": {
+            "title": "Chapter 26",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/F2sfJ5O/"
+            },
+            "last_updated": "1635288734"
         },
-        "last_updated": "1635288734"
-      },
-      "27": {
-        "title": "Chapter 27",
-        "volume": "0",
-        "groups": {
-          "Dadnaya": "/proxy/api/imgur/chapter/jAUyKae/"
+        "27": {
+            "title": "Chapter 27",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/jAUyKae/"
+            },
+            "last_updated": "1635372924"
         },
-        "last_updated": "1635372924"
-      },
-      "28": {
-        "title": "Chapter 28",
-        "volume": "0",
-        "groups": {
-          "Dadnaya": "/proxy/api/imgur/chapter/WImvjcw/"
+        "28": {
+            "title": "Chapter 28",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/WImvjcw/"
+            },
+            "last_updated": "1635465600"
         },
-        "last_updated": "1635465600"
-      },
-      "29": {
-        "title": "Chapter 29",
-        "volume": "0",
-        "groups": {
-          "Dadnaya": "/proxy/api/imgur/chapter/cDQNGZE/"
-        },
-        "last_updated": "1635550479"
-      }
+        "29": {
+            "title": "Chapter 29",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/cDQNGZE/"
+            },
+            "last_updated": "1635550479"
+        }
     }
-  }
+}
