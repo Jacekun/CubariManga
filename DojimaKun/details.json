@@ -60,6 +60,14 @@
                 "Dadnaya": "/proxy/api/imgur/chapter/nFwvcgY/"
             },
             "last_updated": "1635722672"
+        },
+        "Extra 1": {
+            "title": "Twitter Extra 1",
+            "volume": "0",
+            "groups": {
+                "Dadnaya": "/proxy/api/imgur/chapter/VU5dr2R/"
+            },
+            "last_updated": "1635808166"
         }
     }
 }
